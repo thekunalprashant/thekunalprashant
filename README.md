@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kunal Prashant</h1>
-<h3 align="center">A passionate frontend developer and a programmer from India</h3>
+<h3 align="center">A passionate Fullstack developer and a programmer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thekunalprashant&label=Profile%20views&color=0e75b6&style=flat" alt="thekunalprashant" /> </p>
 
