@@ -26,12 +26,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-*(Images removed as requested — clean and minimal version)*  
-You can explore my contributions directly on my profile!  
-
----
-
 ## ⚡ Fun Facts  
 - ✨ I love crafting **clean dashboards**  
 - 🧩 Turning complex logic into **simple UI** is my favorite thing  
