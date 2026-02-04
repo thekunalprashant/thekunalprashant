@@ -1,69 +1,45 @@
-<!-- HEADER -->
 <h1 align="center">✨ Hey, I'm Kunal Prashant</h1>
-<h3 align="center">Full-Stack Developer • Product Builder • UX-Led Engineer from :contentReference[oaicite:0]{index=0}</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thekunalprashant&label=Profile+Views&color=6f42c1&style=flat-square" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thekunalprashant&theme=flat&no-frame=true&no-bg=true&margin-w=10" />
-</p>
+<h3 align="center">Full-Stack Developer • Product Builder • UX-Led Engineer from India 🇮🇳</h3>
 
 ---
 
-# 🚀 **About Me**
+## 🚀 About Me  
 - 💡 I build **modern full-stack apps** with clean UI & strong UX  
 - 🎯 Passionate about **Next.js, React, MongoDB, DevTools & Productivity Apps**  
-- 📐 Love crafting **minimal interfaces** & thoughtful user experiences  
-- 🧠 Exploring **AI-assisted workflows** & design systems  
-- 📫 Reach me at: **kunalprashant77@gmail.com**
+- 🎨 I love designing **minimal interfaces**  
+- 🤖 Exploring **AI-assisted workflows** & design systems  
+- 📫 Reach me at **kunalprashant77@gmail.com**
 
 ---
 
-# 🌎 **Connect With Me**
-<p align="left">
-  <a href="https://dev.to/kunalprashant" target="_blank">
-    <img src="https://skillicons.dev/icons?i=devto" height="32" />
-  </a>
-  <a href="https://twitter.com/kunalprashant2" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="32" />
-  </a>
-</p>
+## 🌍 Connect With Me  
+- 📰 Dev Profile: **https://dev.to/kunalprashant**  
+- 🐦 Twitter: **https://twitter.com/kunalprashant2**
 
 ---
 
-# 🛠 **Tech I Use & Love**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,js,ts,tailwind,figma,firebase,git,html,css,java,mysql,ps" />
-</p>
+## 🛠 Tech Stack  
+**Frontend:** React • Next.js • JavaScript • TypeScript • HTML • CSS • Tailwind  
+**Backend:** Node.js • Express • MongoDB • Firebase  • Springboot 
+**Tools:** Git • Figma • Photoshop • DevTools • Numpy • Pandas  
+**Other:** Java • MySQL • Design Systems • NLP • AI/ML    
 
 ---
 
-# 📊 **GitHub Stats (Clean Aesthetic)**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thekunalprashant&show_icons=true&hide_border=true&theme=transparent" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thekunalprashant&layout=compact&hide_border=true&theme=transparent" height="165" />
-</p>
+## 📊 GitHub Stats  
+*(Images removed as requested — clean and minimal version)*  
+You can explore my contributions directly on my profile!  
 
 ---
 
-# ⚡ **Fun Facts**
-- ✨ I love **designing dashboards & minimal products**  
-- 🎬 I track movies, tasks & goals using tools I build  
-- 🧩 I enjoy breaking complex problems into simple UI flows  
-- 👨‍💻 Coding Style: *Readable. Clean. UX-first.*
-
----
-
-# 🎯 **My Focus in 2026**
-- 🚀 Build more real-world SaaS apps  
-- 🎨 Sharpen UI/UX systems & animations  
-- 🧠 Explore AI-driven personal productivity  
-- 🌐 Improve backend architecture skills  
+## ⚡ Fun Facts  
+- ✨ I love crafting **clean dashboards**  
+- 🧩 Turning complex logic into **simple UI** is my favorite thing  
+- 🎬 I build tools for my own productivity (tasks, goals & watchlist apps)  
+- 👨‍💻 Coding Style → **Readable • Clean • UX-first**
 
 ---
 
 <p align="center">
-  <b>Thanks for visiting! ⭐ If you liked my work, consider giving a star!</b>
+  ⭐ <b>Thanks for visiting! Consider starring any repo you like!</b> ⭐
 </p>
